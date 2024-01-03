@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/convertFC/bin/Debug/net7.0/convertFC
+/Users/macos/Desktop/Operator/convertFC/bin/Debug/net7.0/convertFC.deps.json
+/Users/macos/Desktop/Operator/convertFC/bin/Debug/net7.0/convertFC.runtimeconfig.json
+/Users/macos/Desktop/Operator/convertFC/bin/Debug/net7.0/convertFC.dll
+/Users/macos/Desktop/Operator/convertFC/bin/Debug/net7.0/convertFC.pdb
+/Users/macos/Desktop/Operator/convertFC/obj/Debug/net7.0/convertFC.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/convertFC/obj/Debug/net7.0/convertFC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/convertFC/obj/Debug/net7.0/convertFC.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/convertFC/obj/Debug/net7.0/convertFC.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/convertFC/obj/Debug/net7.0/convertFC.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/convertFC/obj/Debug/net7.0/convertFC.dll
+/Users/macos/Desktop/Operator/convertFC/obj/Debug/net7.0/refint/convertFC.dll
+/Users/macos/Desktop/Operator/convertFC/obj/Debug/net7.0/convertFC.pdb
+/Users/macos/Desktop/Operator/convertFC/obj/Debug/net7.0/convertFC.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/convertFC/obj/Debug/net7.0/ref/convertFC.dll
